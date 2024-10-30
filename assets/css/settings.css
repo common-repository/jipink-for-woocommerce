@@ -1,0 +1,66 @@
+.jipink-form-wrapper {
+  box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.16), 0 0 0 1px rgba(0, 0, 0, 0.08);
+  background-color: #fff
+}
+
+.jipink-form-wrapper .settings-header {
+  padding: 20px 40px;
+}
+
+.jipink-form-wrapper .form-wrapper {
+  padding: 20px 40px
+}
+
+.jipink-form-wrapper .logo {
+  width: 200px;
+  margin: 10px 0
+}
+
+.jipink-form-wrapper input[type=checkbox],
+.jipink-form-wrapper input[type=color],
+.jipink-form-wrapper input[type=date],
+.jipink-form-wrapper input[type=datetime-local],
+.jipink-form-wrapper input[type=datetime],
+.jipink-form-wrapper input[type=email],
+.jipink-form-wrapper input[type=month],
+.jipink-form-wrapper input[type=number],
+.jipink-form-wrapper input[type=password],
+.jipink-form-wrapper input[type=radio],
+.jipink-form-wrapper input[type=search],
+.jipink-form-wrapper input[type=tel],
+.jipink-form-wrapper input[type=text],
+.jipink-form-wrapper input[type=time],
+.jipink-form-wrapper input[type=url],
+.jipink-form-wrapper input[type=week],
+.jipink-form-wrapper select,
+.jipink-form-wrapper textarea {
+  padding: .5em .6em;
+  display: inline-block;
+  border: 1px solid #ccc;
+  -webkit-box-shadow: none;
+  box-shadow: none;
+  border-radius: 4px;
+  vertical-align: middle;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  width: 30%;
+  height: auto
+}
+
+.jipink-form-wrapper select {
+  padding-right: 30px;
+  width: auto
+}
+
+.jipink-form-wrapper .field-description {
+  display: block;
+  color: #888888;
+  padding-left: 5px;
+  padding-top: 5px;
+  width: 30%
+}
+
+.jipink-form-wrapper .field-unit {
+  margin-left: 5px;
+  color: #888787
+}
